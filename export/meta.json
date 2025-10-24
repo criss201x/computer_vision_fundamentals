@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "has_autoencoder": true,
+    "has_classifier": true,
+    "input_size": [
+      3,
+      224,
+      224
+    ],
+    "framework": "pytorch",
+    "notes": "Pesos guardados como state_dict. Cargar con la misma arquitectura."
+  },
+  "classes": [
+    "cpu",
+    "mesa",
+    "mouse",
+    "nada",
+    "pantalla",
+    "silla",
+    "teclado"
+  ]
+}
