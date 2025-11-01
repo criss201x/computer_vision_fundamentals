@@ -1,0 +1,5 @@
+__pycache__/
+objetos_salon/
+.ipynb_checkpoints/
+.claude/
+.virtual_documents/
