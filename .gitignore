@@ -3,3 +3,5 @@ objetos_salon/
 .ipynb_checkpoints/
 .claude/
 .virtual_documents/
+anaconda_projects/
+sam_vit_h_4b8939.pth
