@@ -1,7 +1,11 @@
 # computer_vision_fundamentals
 
-#### codigo del encoder-cnn + clasificador -> [autoencoder_cnn_v4_improved.ipynb](https://github.com/criss201x/computer_vision_fundamentals/blob/main/autoencoder_cnn_v4_improved.ipynb) 
+#### codigo del encoder-cnn + clasificador -> [autoencoder_cnn_v5_improved.ipynb](https://github.com/criss201x/computer_vision_fundamentals/blob/main/autoencoder_cnn_v5_improved.ipynb) 
 #### Codigo para clasificar imagenes externas con el modelo entrenado anteriormente  [inference_notebook.ipynb](https://nbviewer.org/github/criss201x/computer_vision_fundamentals/blob/main/inference_notebook.ipynb.ipynb) 
+#### Codigo para clasificar varios objetos en una misma imagen con el modelo entrenado anteriormente  [yolo_integration.ipynb](https://github.com/criss201x/computer_vision_fundamentals/blob/main/yolo_integration.ipynb) 
+#### Codigo para clasificar varios objetos en en un video o en tiempo real con el modelo entrenado anteriormente  [yolo_video_integration.ipynb](https://github.com/criss201x/computer_vision_fundamentals/blob/main/yolo_video_integration.ipynb) 
+#### video de clasificación multiobjeto en tiempo real con el modelo entrenado anteriormente [video_procesado.mp4](https://github.com/criss201x/computer_vision_fundamentals/blob/main/video_procesado.mp4) 
+
 
 # 🖼️ Computer Vision Fundamentals
 

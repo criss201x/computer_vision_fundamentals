@@ -1,0 +1,58 @@
+{
+  "version": "v5",
+  "framework": "pytorch",
+  "created_at": "2025-11-16T15:33:52.307195",
+  "classes": [
+    "cpu",
+    "mesa",
+    "mouse",
+    "nada",
+    "pantalla",
+    "silla",
+    "teclado"
+  ],
+  "num_classes": 7,
+  "architecture": {
+    "latent_dim": 256,
+    "img_size": 64,
+    "dropout": 0.5
+  },
+  "transforms": {
+    "resize": 64,
+    "normalize_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "normalize_std": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  "training": {
+    "ae_epochs": 40,
+    "classifier_epochs": 30,
+    "batch_size": 32,
+    "ae_lr": 0.001,
+    "classifier_lr": 0.001,
+    "data_augmentation": "aggressive"
+  },
+  "performance": {
+    "final_train_acc": 43.20987654320987,
+    "final_val_acc": 60.08230452674897,
+    "best_val_acc": 61.31687242798354
+  },
+  "improvements": {
+    "vs_v4": {
+      "img_size": "32 → 64 (+4x resolution)",
+      "latent_dim": "128 → 256 (+2x capacity)",
+      "data_augmentation": "basic → aggressive",
+      "expected_improvement": "+10-15% accuracy"
+    }
+  },
+  "system": {
+    "device": "cuda",
+    "pytorch_version": "2.8.0+cu128"
+  }
+}

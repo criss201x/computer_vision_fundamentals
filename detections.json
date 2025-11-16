@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "bbox": [
+      585,
+      95,
+      708,
+      178
+    ],
+    "yolo_detection": {
+      "class": "tv",
+      "confidence": 0.6945503950119019
+    },
+    "custom_classification": {
+      "class": "pantalla",
+      "confidence": 0.22472164034843445
+    }
+  },
+  {
+    "id": 2,
+    "bbox": [
+      161,
+      228,
+      495,
+      430
+    ],
+    "yolo_detection": {
+      "class": "tv",
+      "confidence": 0.5690656304359436
+    },
+    "custom_classification": {
+      "class": "pantalla",
+      "confidence": 0.518622636795044
+    }
+  },
+  {
+    "id": 3,
+    "bbox": [
+      186,
+      434,
+      450,
+      471
+    ],
+    "yolo_detection": {
+      "class": "keyboard",
+      "confidence": 0.5584487915039062
+    },
+    "custom_classification": {
+      "class": "pantalla",
+      "confidence": 0.16898006200790405
+    }
+  },
+  {
+    "id": 4,
+    "bbox": [
+      232,
+      111,
+      359,
+      187
+    ],
+    "yolo_detection": {
+      "class": "tv",
+      "confidence": 0.4543263018131256
+    },
+    "custom_classification": {
+      "class": "pantalla",
+      "confidence": 0.4943026006221771
+    }
+  },
+  {
+    "id": 5,
+    "bbox": [
+      404,
+      195,
+      520,
+      220
+    ],
+    "yolo_detection": {
+      "class": "keyboard",
+      "confidence": 0.3740021884441376
+    },
+    "custom_classification": {
+      "class": "mesa",
+      "confidence": 0.18862959742546082
+    }
+  },
+  {
+    "id": 6,
+    "bbox": [
+      241,
+      183,
+      346,
+      212
+    ],
+    "yolo_detection": {
+      "class": "keyboard",
+      "confidence": 0.3266052305698395
+    },
+    "custom_classification": {
+      "class": "silla",
+      "confidence": 0.20469707250595093
+    }
+  },
+  {
+    "id": 7,
+    "bbox": [
+      0,
+      230,
+      115,
+      309
+    ],
+    "yolo_detection": {
+      "class": "laptop",
+      "confidence": 0.2775079607963562
+    },
+    "custom_classification": {
+      "class": "silla",
+      "confidence": 0.34541216492652893
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "total_frames": 582,
+  "avg_fps": 52.634157353539585,
+  "total_detections": 3354,
+  "class_counts": {
+    "teclado": 399,
+    "mesa": 805,
+    "silla": 642,
+    "pantalla": 987,
+    "cpu": 222,
+    "nada": 200,
+    "mouse": 99
+  }
+}
