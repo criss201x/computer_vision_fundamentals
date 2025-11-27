@@ -7,7 +7,7 @@
 #### video de clasificación multiobjeto en tiempo real con el modelo entrenado anteriormente [video_procesado.mp4](https://github.com/criss201x/computer_vision_fundamentals/blob/main/video_procesado.mp4) 
 
 
-# 🖼️ Computer Vision Fundamentals
+# Computer Vision Fundamentals
 
 Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **Clasificador** en PyTorch.
 
