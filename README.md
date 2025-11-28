@@ -27,7 +27,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 
 ---
 
-## ✨ Características
+## Características
 
 - ✅ **Autoencoder Convolucional** con representación latente comprimida
 - ✅ **Clasificador multicategoria** basado en features aprendidas
