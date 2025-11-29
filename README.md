@@ -13,7 +13,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 
 ---
 
-## 📋 Tabla de Contenidos
+## Contenidos
 
 - [Características](#-características)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
