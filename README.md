@@ -32,7 +32,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 - **Autoencoder Convolucional** con representación latente comprimida
 - **Clasificador multicategoria** basado en features aprendidas
 - **Data Augmentation** para mejor generalización
-- ✅ **Early Stopping** y validación automática
+- **Early Stopping** y validación automática
 - ✅ **Batch Normalization** y Dropout
 - ✅ **Learning Rate Scheduler** adaptativo
 - ✅ **Sistema completo de inferencia** para imágenes nuevas
