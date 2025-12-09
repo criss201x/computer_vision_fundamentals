@@ -34,7 +34,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 - **Data Augmentation** para mejor generalización
 - **Early Stopping** y validación automática
   **Batch Normalization** y Dropout
-- ✅ **Learning Rate Scheduler** adaptativo
+- **Learning Rate Scheduler** adaptativo
 - ✅ **Sistema completo de inferencia** para imágenes nuevas
 - ✅ **Visualización de métricas** en tiempo real
 - ✅ **Exportación robusta** de modelos
