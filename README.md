@@ -36,7 +36,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
   **Batch Normalization** y Dropout
 - **Learning Rate Scheduler** adaptativo
 - **Sistema completo de inferencia** para imágenes nuevas
-- ✅ **Visualización de métricas** en tiempo real
+- **Visualización de métricas** en tiempo real
 - ✅ **Exportación robusta** de modelos
 
 ---
