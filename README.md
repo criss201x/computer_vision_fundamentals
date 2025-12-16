@@ -41,7 +41,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 computer_vision/
