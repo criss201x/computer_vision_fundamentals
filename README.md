@@ -46,7 +46,7 @@ Sistema completo de clasificación de imágenes usando **Autoencoder CNN** + **C
 ```
 computer_vision/
 ├── autoencoder_cnn_v4_improved.ipynb  # Entrenamiento completo
-├── inference_notebook.ipynb           # 🔮 Predicción interactiva
+├── inference_notebook.ipynb           # Predicción interactiva
 ├── inference.py                       # 🚀 CLI para inferencia
 ├── test_inference.py                  # ✔️ Verificación del sistema
 ├── export_v4/                         # 💾 Modelos entrenados
