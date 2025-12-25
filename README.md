@@ -49,7 +49,7 @@ computer_vision/
 ├── inference_notebook.ipynb           # Predicción interactiva
 ├── inference.py                       # CLI para inferencia
 ├── test_inference.py                  # Verificación del sistema
-├── export_v4/                         # 💾 Modelos entrenados
+├── export_v4/                         # Modelos entrenados
 │   ├── autoencoder_state.pt
 │   ├── classifier_state.pt
 │   ├── metadata.json
