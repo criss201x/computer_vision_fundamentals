@@ -54,7 +54,7 @@ computer_vision/
 │   ├── classifier_state.pt
 │   ├── metadata.json
 │   └── training_history.json
-├── objetos_salon/processed/           # 📸 Dataset (ignorado en git)
+├── objetos_salon/processed/           # Dataset (ignorado en git)
 │   ├── clase1/
 │   ├── clase2/
 │   └── ...
