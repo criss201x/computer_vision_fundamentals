@@ -63,7 +63,7 @@ computer_vision/
 
 ---
 
-## 🔧 Instalación
+## Instalación
 
 ### Requisitos
 - Python 3.8+
