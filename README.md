@@ -85,7 +85,7 @@ python -c "import torch; print(f'CUDA disponible: {torch.cuda.is_available()}')"
 
 ---
 
-## 🚀 Uso Rápido
+## Uso Rápido
 
 ### 1️⃣ Entrenar el Modelo (una sola vez)
 
