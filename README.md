@@ -87,7 +87,7 @@ python -c "import torch; print(f'CUDA disponible: {torch.cuda.is_available()}')"
 
 ## Uso Rápido
 
-### 1️⃣ Entrenar el Modelo (una sola vez)
+### Entrenar el Modelo (una sola vez)
 
 ```bash
 jupyter notebook autoencoder_cnn_v4_improved.ipynb
