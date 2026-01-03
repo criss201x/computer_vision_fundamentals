@@ -112,7 +112,7 @@ Salida esperada:
 
 ---
 
-### 3️⃣ Clasificar Imágenes Nuevas
+### Clasificar Imágenes Nuevas
 
 #### **Opción A: Línea de Comandos** 🖥️
 
