@@ -97,7 +97,7 @@ jupyter notebook autoencoder_cnn_v4_improved.ipynb
 
 ---
 
-### 2️⃣ Verificar que Funciona
+### Verificar que Funciona
 
 ```bash
 python test_inference.py
