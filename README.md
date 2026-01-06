@@ -129,7 +129,7 @@ python inference.py --folder imgs/ --output resultados.json
 
 ---
 
-#### **Opción B: Script Python** 🐍
+#### **Opción B: Script Python**
 
 ```python
 from inference import ImageClassifierPredictor
