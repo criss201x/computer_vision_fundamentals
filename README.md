@@ -114,7 +114,7 @@ Salida esperada:
 
 ### Clasificar Imágenes Nuevas
 
-#### **Opción A: Línea de Comandos** 🖥️
+#### **Opción A: Línea de Comandos** 
 
 ```bash
 # Clasificar una imagen
