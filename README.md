@@ -160,7 +160,7 @@ Ejecuta las celdas para:
 
 ---
 
-## 📚 Notebooks
+## Notebooks
 
 ### 🎓 [`autoencoder_cnn_v4_improved.ipynb`](autoencoder_cnn_v4_improved.ipynb)
 
