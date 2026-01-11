@@ -147,7 +147,7 @@ for pred in predictions:
 
 ---
 
-#### **Opción C: Notebook Interactivo** 📓
+#### **Opción C: Notebook Interactivo** 
 
 ```bash
 jupyter notebook inference_notebook.ipynb
