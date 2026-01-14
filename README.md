@@ -162,7 +162,7 @@ Ejecuta las celdas para:
 
 ## Notebooks
 
-### 🎓 [`autoencoder_cnn_v4_improved.ipynb`](autoencoder_cnn_v4_improved.ipynb)
+### [`autoencoder_cnn_v4_improved.ipynb`](autoencoder_cnn_v4_improved.ipynb)
 
 **Entrenamiento completo del sistema**
 
