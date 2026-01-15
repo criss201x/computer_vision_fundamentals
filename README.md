@@ -180,7 +180,7 @@ Ejecuta las celdas para:
 
 ---
 
-### 🔮 [`inference_notebook.ipynb`](https://nbviewer.org/github/criss201x/computer_vision_fundamentals/blob/main/inference_notebook.ipynb)
+### [`inference_notebook.ipynb`](https://nbviewer.org/github/criss201x/computer_vision_fundamentals/blob/main/inference_notebook.ipynb)
 
 **Clasificación interactiva de imágenes**
 
