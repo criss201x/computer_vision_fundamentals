@@ -275,7 +275,7 @@ graph LR
 ### Uso Diario (Clasificar Imágenes)
 
 ```bash
-# Solo necesitas esto ⬇️
+# Solo necesitas esto 
 python inference.py --image nueva_foto.jpg
 ```
 
