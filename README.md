@@ -238,7 +238,7 @@ python test_inference.py
 
 ---
 
-## 🔄 Workflow Completo
+## Workflow Completo
 
 ### Primera Vez (Setup Inicial)
 
