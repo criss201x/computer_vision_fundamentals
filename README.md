@@ -192,7 +192,7 @@ Ejecuta las celdas para:
 
 ---
 
-## 🛠️ Scripts de Inferencia
+## Scripts de Inferencia
 
 ### `inference.py`
 
