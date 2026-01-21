@@ -293,7 +293,7 @@ Si agregas más datos o quieres mejorar:
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 ### Hiperparámetros (en el notebook)
 
