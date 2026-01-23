@@ -314,7 +314,7 @@ CONFIG = {
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 El sistema genera:
 
