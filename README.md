@@ -319,7 +319,7 @@ CONFIG = {
 El sistema genera:
 
 ### Durante el Entrenamiento
-- 📈 Curvas de aprendizaje (loss & accuracy)
+-  Curvas de aprendizaje (loss & accuracy)
 - 🖼️ Visualizaciones de reconstrucciones
 - 📋 Reporte de clasificación (precision, recall, F1)
 - 🔥 Matriz de confusión
