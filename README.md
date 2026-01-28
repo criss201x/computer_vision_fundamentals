@@ -321,7 +321,7 @@ El sistema genera:
 ### Durante el Entrenamiento
 -  Curvas de aprendizaje (loss & accuracy)
 -  Visualizaciones de reconstrucciones
-- 📋 Reporte de clasificación (precision, recall, F1)
+-  Reporte de clasificación (precision, recall, F1)
 - 🔥 Matriz de confusión
 
 ### Archivos Exportados
