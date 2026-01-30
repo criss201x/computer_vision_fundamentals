@@ -322,7 +322,7 @@ El sistema genera:
 -  Curvas de aprendizaje (loss & accuracy)
 -  Visualizaciones de reconstrucciones
 -  Reporte de clasificación (precision, recall, F1)
-- 🔥 Matriz de confusión
+-  Matriz de confusión
 
 ### Archivos Exportados
 ```
