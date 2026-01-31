@@ -351,7 +351,7 @@ export_v4/
 
 ---
 
-## 🎯 Ejemplos de Uso
+## Ejemplos de Uso
 
 ### Caso 1: Clasificar imagen individual
 
