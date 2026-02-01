@@ -411,7 +411,7 @@ if __name__ == '__main__':
 
 ---
 
-## 📝 Notas
+##  Notas
 
 - ⚠️ El dataset `objetos_salon/` está excluido de git (ver `.gitignore`)
 - 💾 Los modelos entrenados ocupan ~10-50 MB
