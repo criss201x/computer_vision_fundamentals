@@ -233,7 +233,7 @@ python test_inference.py
 **Comprueba:**
 - Carga de modelos
 - Metadata correcta
-- ✓ Predicción funcional
+- Predicción funcional
 - ✓ Formato de salida
 
 ---
