@@ -416,7 +416,7 @@ if __name__ == '__main__':
 -  El dataset `objetos_salon/` está excluido de git (ver `.gitignore`)
 -  Los modelos entrenados ocupan ~10-50 MB
 -  GPU recomendada para entrenamiento, opcional para inferencia
-- 🔄 El sistema soporta cualquier número de clases (2+)
+-  El sistema soporta cualquier número de clases (2+)
 
 ---
 
