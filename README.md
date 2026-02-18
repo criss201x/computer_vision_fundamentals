@@ -154,7 +154,7 @@ jupyter notebook inference_notebook.ipynb
 ```
 
 Ejecuta las celdas para:
-- Cargar el modelo
+-  Cargar el modelo
 - Subir/seleccionar imágenes
 - Ver predicciones con visualizaciones
 
