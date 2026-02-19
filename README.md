@@ -420,7 +420,7 @@ if __name__ == '__main__':
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 ¿Encontraste un bug o tienes una mejora? ¡Abre un issue o pull request!
 
