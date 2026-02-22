@@ -426,7 +426,7 @@ if __name__ == '__main__':
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 MIT License - Usa libremente para proyectos personales o comerciales.
 
