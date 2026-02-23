@@ -432,7 +432,7 @@ MIT License - Usa libremente para proyectos personales o comerciales.
 
 ---
 
-## 🔗 Enlaces Útiles
+## Enlaces Útiles
 
 - [Notebook de Entrenamiento](autoencoder_cnn_v4_improved.ipynb)
 - [Notebook de Inferencia](https://nbviewer.org/github/criss201x/computer_vision_fundamentals/blob/main/inference_notebook.ipynb)
