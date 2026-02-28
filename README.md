@@ -443,4 +443,3 @@ MIT License - Usa libremente para proyectos personales o comerciales.
 
 
 **¿Preguntas?** Abre un issue en el repositorio.
-
