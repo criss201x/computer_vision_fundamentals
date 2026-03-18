@@ -439,6 +439,5 @@ MIT License - Usa libremente para proyectos personales o comerciales.
 - [PyTorch Documentation](https://pytorch.org/docs/)
 - [Torchvision Transforms](https://pytorch.org/vision/stable/transforms.html)
 
----
 
 **¿Preguntas?** Abre un issue en el repositorio.
